@@ -1,2 +1,4 @@
-print("đây là file giao diện")
+print(" xin chào")
+print("Đinh Hồng Cơ")
+print("MSSV")
 
